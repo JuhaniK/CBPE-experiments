@@ -6,5 +6,7 @@ To run the TableShift experiments, you will have to download the data from https
 Then, unzip the tableshift data into a subfolder named "tableshift_data" in the working directory. 
 Finally, run the tableshift.py script.
 
+To run the CNN - Image Data experiment, run the binary_cnn_experiment.py.
+
 There is an additional experiment with simulated data, where we control for covariate shift.
 You can perform this experiment by running the binary_classification_metrics.py script.
